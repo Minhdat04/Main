@@ -1,0 +1,32 @@
+
+1- đăng nhập/ đăng xuất (staff/member)
+2- đăng kí (member)
+
+MEMBER
+3- hiển thị danh sách phim ở menu
+4- xem chi tiết phim
+5- đặt vé (ở trong xem chi tiết phim)
+6- hủy vé 
+7- tìm kiếm phim (tên/thể loại)
+8- thay đổi thông tin người dùng
+9- xem thông tin vé của của người dùng
+
+ADMIN
+- Quản lý thông tin nhân viên:
+ + Thêm mới 
+ + Chỉnh sửa (update/ban)
+- Quản lý phòng chiếu
+ + Thêm mới 
+ + Chỉnh sửa
+- Xem thống kê:
+ + Phòng đó có bao nhiêu vé bán ra
+ + Ngày đó có bao nhiêu vé bán ra
+
+Staff
+
+19- chỉ định phòng nào chiếu phim
+20- tạo mới phim
+21- điều chỉnh thông tin phim
+22- gỡ phim khỏi danh sách 
+24- ban account member
+25- xem chi tiết member
