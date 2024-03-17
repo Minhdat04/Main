@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Gm8fleW6NOEfQjl5lN5MwodWoOhC1pl946pwY6IxMtH393BdcawDB0/HCUnMDG7T00jk2dRxTQj41R+6sydqQ==",
+  "dgSpecHash": "bVWymSm7rPmM7Uq/v4wW2DoRbwrlQjNeV8ro7oILcSh7HeyXoDw9AhyO5+Y0gNxD9+WCnmvULreaILVN9L9POg==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

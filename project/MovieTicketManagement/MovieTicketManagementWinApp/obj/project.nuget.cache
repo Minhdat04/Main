@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NmpcLBDWW7IXBmVHq3gClErJPgrfftJbnD6QDUOr36dAw2pSkicgBFeg4Pg/ee/8S7N8s5C3sTeik3RyqFcxQw==",
+  "dgSpecHash": "++qxCXvPMwTCXgbd9T9jKjInfKNJanMtjDNo7/Nz0EMpMSlJdO4V5s0nSevegC7f8/u+DYuNldU8suLeHbjFHA==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\MovieTicketManagementWinApp.csproj",
+  "projectFilePath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\MovieTicketManagementWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

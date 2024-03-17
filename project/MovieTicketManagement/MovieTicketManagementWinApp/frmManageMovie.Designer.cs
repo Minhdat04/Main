@@ -42,6 +42,7 @@
             label5 = new Label();
             label6 = new Label();
             btnUpdate = new Button();
+            btnBack = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvMovie).BeginInit();
             SuspendLayout();
             // 
@@ -165,11 +166,22 @@
             btnUpdate.Text = "Update";
             btnUpdate.UseVisualStyleBackColor = true;
             // 
+            // btnBack
+            // 
+            btnBack.Location = new Point(146, 4);
+            btnBack.Name = "btnBack";
+            btnBack.Size = new Size(94, 29);
+            btnBack.TabIndex = 15;
+            btnBack.Text = "Back";
+            btnBack.UseVisualStyleBackColor = true;
+            btnBack.Click += btnBack_Click;
+            // 
             // frmManageMovie
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(781, 329);
+            Controls.Add(btnBack);
             Controls.Add(btnUpdate);
             Controls.Add(label6);
             Controls.Add(label5);
@@ -208,5 +220,6 @@
         private Label label5;
         private Label label6;
         private Button btnUpdate;
+        private Button btnBack;
     }
 }

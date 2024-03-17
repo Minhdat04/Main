@@ -1,32 +1,43 @@
 
-1- đăng nhập/ đăng xuất (staff/member)
+1- đăng nhập (xong)
+
 2- đăng kí (member)
 
-MEMBER
 3- hiển thị danh sách phim ở menu
+
 4- xem chi tiết phim
-5- đặt vé (ở trong xem chi tiết phim)
-6- hủy vé 
+
+5- đặt vé (xong)
+
 7- tìm kiếm phim (tên/thể loại)
+
 8- thay đổi thông tin người dùng
+
 9- xem thông tin vé của của người dùng
 
 ADMIN
-- Quản lý thông tin nhân viên:
- + Thêm mới 
- + Chỉnh sửa (update/ban)
-- Quản lý phòng chiếu
- + Thêm mới 
- + Chỉnh sửa
-- Xem thống kê:
- + Phòng đó có bao nhiêu vé bán ra
- + Ngày đó có bao nhiêu vé bán ra
+
 
 Staff
 
-19- chỉ định phòng nào chiếu phim
-20- tạo mới phim
-21- điều chỉnh thông tin phim
-22- gỡ phim khỏi danh sách 
-24- ban account member
-25- xem chi tiết member
+MANAGE MOVIE
+- Tạo mới (xong)
+- Update của movie và movie detail: chỉnh status của phim là chính, có thể chỉnh mấy thông tin khác trừ id
+
+MANAGE CATEGORY
+- Tạo mới (xong)
+- Update: chỉ update name
+
+MANAGE ROOM
+- Tạo mới: tạo theo
+ + name: Rạp 1/2/3
+ + số ngồi luôn luôn là 25
+- Update: vẫn ưu tiên update status
+
+MANAGE SCHEDULE
+- Tạo mới: 
+ + ID: ca 1/2/3/4/5
+ + timeslot: bắt đầu từ 7h, mỗi ca 3 tiếng, VD: ca 1 => 7:00:00 - 10:00:00
+
+MANAGE SCHEDULE DETAIL (xong)
+

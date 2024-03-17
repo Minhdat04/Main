@@ -2315,11 +2315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj",
+      "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\Repositories\\obj\\",
+      "outputPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2336,8 +2336,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj": {
-              "projectPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj"
+            "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj": {
+              "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj"
             }
           }
         }

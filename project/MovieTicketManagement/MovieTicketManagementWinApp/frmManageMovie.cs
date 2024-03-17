@@ -30,19 +30,19 @@ namespace MovieTicketManagementWinApp
         {
             int MovieId = int.Parse(txtID.Text);
             string MovieName = txtName.Text;
-            if(string.IsNullOrEmpty(MovieName) )
+            if (string.IsNullOrEmpty(MovieName))
             {
                 MessageBox.Show("Please input name");
                 return;
             }
 
-            if(string.IsNullOrEmpty(txtLength.Text) )
+            if (string.IsNullOrEmpty(txtLength.Text))
             {
                 MessageBox.Show("Please input length");
                 return;
             }
             int MovieLength;
-           if(!int.TryParse(txtLength.Text, out MovieLength))
+            if (!int.TryParse(txtLength.Text, out MovieLength))
             {
                 MessageBox.Show("Please input length: integer");
                 return;
@@ -62,11 +62,11 @@ namespace MovieTicketManagementWinApp
                 Status = Status
             };
 
-            if(m != null)
+            if (m != null)
             {
                 DialogResult d = MessageBox.Show("Do you want to create new movie", "Create movie", MessageBoxButtons.YesNo);
-                if(d == DialogResult.Yes) 
-                { 
+                if (d == DialogResult.Yes)
+                {
                     movieRepo.addMovie(m);
                     loadMovie();
                     txtID.Clear();
@@ -89,6 +89,11 @@ namespace MovieTicketManagementWinApp
             cmbCategory.SelectedIndex = 0;
             cmbCategory.DisplayMember = "CatName";
             cmbCategory.ValueMember = "CatId";
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

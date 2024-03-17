@@ -42,7 +42,6 @@
             textBox4 = new TextBox();
             label7 = new Label();
             btnUpdate = new Button();
-            btnDelete = new Button();
             btnBack = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvCategory).BeginInit();
             SuspendLayout();
@@ -169,15 +168,6 @@
             btnUpdate.Text = "Update";
             btnUpdate.UseVisualStyleBackColor = true;
             // 
-            // btnDelete
-            // 
-            btnDelete.Location = new Point(176, 281);
-            btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(94, 29);
-            btnDelete.TabIndex = 14;
-            btnDelete.Text = "Delete";
-            btnDelete.UseVisualStyleBackColor = true;
-            // 
             // btnBack
             // 
             btnBack.Location = new Point(119, 16);
@@ -194,7 +184,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(669, 360);
             Controls.Add(btnBack);
-            Controls.Add(btnDelete);
             Controls.Add(btnUpdate);
             Controls.Add(label7);
             Controls.Add(label5);
@@ -233,7 +222,6 @@
         private TextBox textBox4;
         private Label label7;
         private Button btnUpdate;
-        private Button btnDelete;
         private Button btnBack;
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {}
+    "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

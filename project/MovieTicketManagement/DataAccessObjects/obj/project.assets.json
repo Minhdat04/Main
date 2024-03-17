@@ -2297,11 +2297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
+      "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
       "projectName": "DataAccessObjects",
-      "projectPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
+      "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\DataAccessObjects\\obj\\",
+      "outputPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2318,8 +2318,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj"
             }
           }
         }

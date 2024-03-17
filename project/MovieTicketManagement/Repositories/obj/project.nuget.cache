@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oMkVsdhSgjBuH33uMalc0oGX09sECBSrJbJnooVzEzOgmOy3rWh8pzQibuE3FQzJQrrGCVMb9hlAhhpjF5xZnQ==",
+  "dgSpecHash": "WgsA2+DTXHgMhtmmvyIRuDPbs1Nk8DBZmnv9gSPrqMXvWRlUUq3F0mdjqI6zDCKvisAyv1Q/K4SNaWuvyFhIRg==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\CN5\\PRN211\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj",
+  "projectFilePath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

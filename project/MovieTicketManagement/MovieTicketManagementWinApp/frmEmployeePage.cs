@@ -29,14 +29,14 @@ namespace MovieTicketManagementWinApp
         {
             frmManageMovie frmManageMovie = new frmManageMovie(a);
             frmManageMovie.ShowDialog();
-            this.Close();
+           
         }
 
         private void btnCategory_Click(object sender, EventArgs e)
         {
             frmManageCategory frmManageCategory = new frmManageCategory(a);
             frmManageCategory.Show();
-            this.Close();
+            
         }
 
         private void btnRoom_Click(object sender, EventArgs e)
@@ -48,7 +48,7 @@ namespace MovieTicketManagementWinApp
         {
             frmManageSchedule frmManageSchedule = new frmManageSchedule(a);
             frmManageSchedule.Show();
-            this.Close();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
