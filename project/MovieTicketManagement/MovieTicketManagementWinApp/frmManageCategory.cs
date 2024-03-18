@@ -60,8 +60,6 @@ namespace MovieTicketManagementWinApp
 
         private void btnBack_Click(object sender, EventArgs e)
         {
-            frmEmployeePage frmEmployeePage = new frmEmployeePage(a);
-            frmEmployeePage.ShowDialog();
             this.Close();
         }
     }

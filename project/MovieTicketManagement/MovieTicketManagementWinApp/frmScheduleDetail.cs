@@ -119,7 +119,7 @@ namespace MovieTicketManagementWinApp
 
         public void comboboxRoom()
         {
-            cmbRoom.DataSource = movieRoomRepo.getAll().ToList();
+            cmbRoom.DataSource = movieRoomRepo.getAll().Where(x => x.Status).ToList();
             cmbRoom.DisplayMember = "MovieRoomName";
             cmbRoom.ValueMember = "MovieRoomId";
             cmbRoom.SelectedIndex = 0;
@@ -135,7 +135,7 @@ namespace MovieTicketManagementWinApp
 
         public void comboboxMovie()
         {
-            cmbMovie.DataSource = movieRepo.getAll().ToList();
+            cmbMovie.DataSource = movieRepo.getAll().Where(m => m.Status).ToList();
             cmbMovie.DisplayMember = "MovieName";
             cmbMovie.ValueMember = "MovieId";
             cmbMovie.SelectedIndex = 0;
