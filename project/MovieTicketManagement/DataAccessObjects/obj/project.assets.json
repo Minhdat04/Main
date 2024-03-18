@@ -2292,19 +2292,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TRUONG SON\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TRUONG SON\\source\\repos\\ldquyen\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
+      "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
       "projectName": "DataAccessObjects",
-      "projectPath": "C:\\Users\\TRUONG SON\\source\\repos\\ldquyen\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
-      "packagesPath": "C:\\Users\\TRUONG SON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TRUONG SON\\source\\repos\\ldquyen\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\obj\\",
+      "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\DataAccessObjects.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\DataAccessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TRUONG SON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2318,8 +2318,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\TRUONG SON\\source\\repos\\ldquyen\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\TRUONG SON\\source\\repos\\ldquyen\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\BusinessObjects\\BusinessObjects.csproj"
             }
           }
         }
@@ -2344,12 +2344,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
