@@ -69,7 +69,7 @@ namespace MovieTicketManagementWinApp
                 {
                     movieRepo.addMovie(m);
                     loadMovie();
-                    txtID.Clear();
+                    txtID.Text = movieRepo.countID().ToString();
                     txtName.Clear();
                     txtLength.Clear();
                     cmbCategory.SelectedIndex = 0;

@@ -73,6 +73,7 @@
             lbVeCuaToi.Size = new Size(74, 20);
             lbVeCuaToi.TabIndex = 3;
             lbVeCuaToi.Text = "Vé của tôi";
+            lbVeCuaToi.Click += lbVeCuaToi_Click;
             lbVeCuaToi.DoubleClick += lbVeCuaToi_DoubleClick;
             // 
             // btnTimKiemPhim

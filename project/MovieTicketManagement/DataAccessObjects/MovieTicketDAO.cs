@@ -1,4 +1,5 @@
 ﻿using BusinessObjects.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,6 +32,16 @@ namespace DataAccessObjects
             {
                 context.Add(ticket);
                 context.SaveChanges();
+            }
+        }
+
+        public static List<MovieTicket> getAllWithID(int MemAccId)
+        {
+            using (MovieTicketManagementContext context = new MovieTicketManagementContext())
+            {
+                return context.MovieTickets.Where(x => x.MemAccId == MemAccId).Include(x => x.MovSd)
+                    .Include(x => x.MovSd.MovieRoom).Include(x => x.MovSd.MovieSche).Include(x => x.MovSd.Movie)
+                    .ToList();
             }
         }
     }

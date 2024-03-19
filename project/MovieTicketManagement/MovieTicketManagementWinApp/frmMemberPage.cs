@@ -35,7 +35,13 @@ namespace MovieTicketManagementWinApp
 
         private void lbVeCuaToi_DoubleClick(object sender, EventArgs e)
         {
-            frmMyTicket frmMyTicket = new frmMyTicket();
+            frmMyTicket frmMyTicket = new frmMyTicket(m.MemAccId);
+            frmMyTicket.Show();
+        }
+
+        private void lbVeCuaToi_Click(object sender, EventArgs e)
+        {
+            frmMyTicket frmMyTicket = new frmMyTicket(m.MemAccId);
             frmMyTicket.Show();
         }
     }
