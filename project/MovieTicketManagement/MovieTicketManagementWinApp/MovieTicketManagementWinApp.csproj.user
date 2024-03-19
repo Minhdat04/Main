@@ -25,10 +25,16 @@
     <Compile Update="frmMemberPage.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmMovieBannerDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmMovieDetail.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmMyTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRegisterMember.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmScheduleDetail.cs">

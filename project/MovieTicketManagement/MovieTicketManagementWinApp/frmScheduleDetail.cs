@@ -145,7 +145,7 @@ namespace MovieTicketManagementWinApp
         {
 
         }
-
+          
         private void btnFind_Click(object sender, EventArgs e)
         {
 

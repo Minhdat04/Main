@@ -10,7 +10,9 @@ namespace Repositories
     public interface IMovieDetailRepository
     {
         List<MovieDetail> getAll();
+        List<MovieDetail> getAllName(string name);
         void AddMovieDetail(MovieDetail movieDetail);
         int CountID();
+        MovieDetail getAllId(int movieDetailID);
     }
 }
