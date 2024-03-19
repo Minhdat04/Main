@@ -139,3 +139,5 @@ D:\FPT\CN5\PRN211\Movie-Ticket-Management\project\MovieTicketManagement\MovieTic
 D:\FPT\CN5\PRN211\Movie-Ticket-Management\project\MovieTicketManagement\MovieTicketManagementWinApp\obj\Debug\net6.0-windows\MovieTicketManagementWinApp.pdb
 D:\FPT\CN5\PRN211\Movie-Ticket-Management\project\MovieTicketManagement\MovieTicketManagementWinApp\obj\Debug\net6.0-windows\MovieTicketManagementWinApp.genruntimeconfig.cache
 D:\FPT\CN5\PRN211\Movie-Ticket-Management\project\MovieTicketManagement\MovieTicketManagementWinApp\obj\Debug\net6.0-windows\ref\MovieTicketManagementWinApp.dll
+D:\FPT\CN5\PRN211\Movie-Ticket-Management\project\MovieTicketManagement\MovieTicketManagementWinApp\obj\Debug\net6.0-windows\MovieTicketManagementWinApp.frmMovieBannerDetail.resources
+D:\FPT\CN5\PRN211\Movie-Ticket-Management\project\MovieTicketManagement\MovieTicketManagementWinApp\obj\Debug\net6.0-windows\MovieTicketManagementWinApp.frmRegisterMember.resources

@@ -13,5 +13,6 @@ namespace Repositories
         public List<MovieDetail> getAll() => MovieDetailDAO.getAll();
         public void AddMovieDetail(MovieDetail movieDetail) => MovieDetailDAO.addNewMovieDetail(movieDetail);
         public int CountID() => MovieDetailDAO.countID();
+        public MovieDetail getAllId(int movieDetailID) => MovieDetailDAO.getAllId(movieDetailID);
     }
 }

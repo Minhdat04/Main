@@ -12,5 +12,6 @@ namespace Repositories
         List<MovieDetail> getAll();
         void AddMovieDetail(MovieDetail movieDetail);
         int CountID();
+        MovieDetail getAllId(int movieDetailID);
     }
 }
