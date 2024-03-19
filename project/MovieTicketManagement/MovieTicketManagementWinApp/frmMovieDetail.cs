@@ -21,6 +21,7 @@ namespace MovieTicketManagementWinApp
             loadDetail();
             txtMovieID.Text = movieID.ToString();
             txtID.Text = movieDetailRepo.CountID().ToString();
+            btnDone.Enabled = false;
         }
 
         private void btnCreate_Click(object sender, EventArgs e)
@@ -99,6 +100,8 @@ namespace MovieTicketManagementWinApp
                 {
                     movieDetailRepo.AddMovieDetail(m);
                     loadDetail();
+                    btnCreate.Enabled = false;
+                    btnDone.Enabled = true;
                 }
             }
         }

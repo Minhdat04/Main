@@ -12,5 +12,6 @@ namespace Repositories
         List<MovieTicket> getAll();
         void addTicket (MovieTicket ticket);
         int countID();
+        List<MovieTicket> getAllWithID(int MemAccId);
     }
 }
