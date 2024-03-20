@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Repositories
-build_property.ProjectDir = D:\FPT\CN5\PRN211\Movie-Ticket-Management\project\MovieTicketManagement\Repositories\
+build_property.ProjectDir = D:\PRN211\codeFun\Movie-Ticket-Management\project\MovieTicketManagement\Repositories\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

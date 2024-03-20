@@ -2328,19 +2328,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\MovieTicketManagementWinApp.csproj",
+      "projectUniqueName": "D:\\PRN211\\codeFun\\Movie-Ticket-Management\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\MovieTicketManagementWinApp.csproj",
       "projectName": "MovieTicketManagementWinApp",
-      "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\MovieTicketManagementWinApp.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\obj\\",
+      "projectPath": "D:\\PRN211\\codeFun\\Movie-Ticket-Management\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\MovieTicketManagementWinApp.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN211\\codeFun\\Movie-Ticket-Management\\project\\MovieTicketManagement\\MovieTicketManagementWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2354,8 +2354,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\FPT\\CN5\\PRN211\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj"
+            "D:\\PRN211\\codeFun\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\PRN211\\codeFun\\Movie-Ticket-Management\\project\\MovieTicketManagement\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -2380,24 +2380,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -2406,7 +2388,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
