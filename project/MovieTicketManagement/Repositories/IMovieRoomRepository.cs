@@ -11,4 +11,6 @@ namespace Repositories
     {
         List<MovieRoom> getAll();
     }
+    public void addRoom(MovieRoom room);
+    public void updateRoom(MovieRoom room);
 }

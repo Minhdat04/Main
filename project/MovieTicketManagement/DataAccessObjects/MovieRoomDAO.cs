@@ -17,4 +17,22 @@ namespace DataAccessObjects
             }
         }
     }
+    public static void addRoom(MovieRoom room)
+{
+    using var context = new MovieTicketManagementContext();
+    context.MovieRooms.Add(room);
+    context.SaveChanges();
+}
+public static void updateRoom(MovieRoom room)
+{
+    using var context = new MovieTicketManagementContext();
+    context.MovieRooms.Update(new MovieRoom
+    {
+        MovieRoomId = room.MovieRoomId,
+        MovieRoomName = room.MovieRoomName,
+        SitPlaceTotal = 25,
+        Status = room.Status,
+    });
+    context.SaveChanges();
+}
 }

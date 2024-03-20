@@ -12,4 +12,6 @@ namespace Repositories
     {
         public List<MovieRoom> getAll() => MovieRoomDAO.getAll();
     }
+    public void addRoom(MovieRoom room) => MovieRoomDAO.addRoom(room);
+    public void updateRoom(MovieRoom room) => MovieRoomDAO.updateRoom(room);
 }
